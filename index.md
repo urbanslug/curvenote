@@ -11,7 +11,7 @@ authors:
 
 ---
 
-```{figure} ../images/hackathon2019.jpg
+```{figure} images/hackathon2019.jpg
 :name: yyt6XS1Xge
 Image by Christopher Backholm / Agile, CC-BY-4.0
 ```
