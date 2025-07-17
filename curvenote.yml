@@ -1,0 +1,31 @@
+version: 1
+project:
+  title: home
+  github: https://github.com/urbanslug/blog
+  id: 69c5a9d5-b96d-48cd-b8fe-d6c5f8d4623c
+site:
+  title: njagi.me
+  options:
+    logo_text: Home
+    twitter: urbanslug
+    hide_toc: true
+  nav:
+    - title: Computational Biology
+      url: /bio
+    - title: Economics & Politics
+      url: /econ
+    - title: Notes
+      url: /notes
+  projects:
+    - path: index
+      slug: 
+    - path: content/econ
+      slug: econ
+    - path: content/bio
+      slug: bio
+    - path: content/notes
+      slug: notes
+  actions:
+    - title: About
+      url: /about
+  domains: []
